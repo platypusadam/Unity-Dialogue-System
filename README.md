@@ -22,3 +22,5 @@ Dialogue Script:
   - 'Continue SFX' takes the audio source attahced to the manager object which plays when you initiate or continue a conversation with an NPC.
 
 The last thing to do is to decide which conversation should be played, and when. Do this in the manager script. I use trigger box colliders attached to the NPCs to find out which NPC the player is close to.
+
+If someone stumbles across this and would like some help setting it up, post so on the issues page.
